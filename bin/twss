@@ -2,7 +2,6 @@
 
 var twss = require('../index.js');
 var colors = require('colors');
-
 var argv = require('optimist')
            .usage('$0 classifies if a sentence can be replied with "that\'s what she said".')
            .wrap(50)
