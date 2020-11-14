@@ -20,6 +20,8 @@
   "dependencies": {
     "colors": "*",
     "fs": "0.0.1-security",
-    "optimist": "0.3"
+    "optimist": "0.3",
+    "positive": "data/positive.txt",
+    "negative": "data/negative.txt"
   }
 }
